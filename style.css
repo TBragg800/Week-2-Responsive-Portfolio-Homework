@@ -17,13 +17,14 @@ div img {
 }
 
 .mybg {
-    height: 800px;
+    height: 100%;
     width: 100%;
     margin: auto;
     background-image: url("https://www.transparenttextures.com/patterns/black-linen.png");
     background-color: #e6dca8;
     background-size: cover;
     background-position: center;
+    padding-bottom: 60px;
 }
 
 .mybg2 {
@@ -59,3 +60,4 @@ hr {
     color:  darkslategrey;  
     width: 100%;
 }
+
