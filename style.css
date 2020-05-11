@@ -60,3 +60,8 @@ hr {
     width: 100%;
 }
 
+@media (min-width: 570px) {
+    .myrow {
+      color: deeppink;
+    }
+  }
