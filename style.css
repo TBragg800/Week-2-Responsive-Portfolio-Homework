@@ -46,15 +46,6 @@ h1 {
     margin-right: auto;
 }
 
-hr {
-    background-color: darkslategrey; 
-    color:  darkslategrey; 
-    height: 3px; 
-    margin-top: 0rem; 
-    padding-top: 0rem;
-    width: 100%;
-}
-
 .myborder {
     border-style: solid;
     color:  darkslategrey;  
@@ -65,11 +56,3 @@ hr {
     width: 32px;
     height: 32px;
 }
-
-
-
-@media (min-width: 570px) {
-    .myrow {
-      color: deeppink;
-    }
-  }
