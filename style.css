@@ -8,13 +8,6 @@ div img {
     height: auto;
 }
 
-.mycol {
-    height: 300px;
-    width: 225px;
-    border: darkslategray;
-    border-style: solid;
-}
-
 .mybg {
     height: 100%;
     width: 100%;
@@ -26,8 +19,33 @@ div img {
     padding-bottom: 60px;
 }
 
+.mycol {
+    height: 300px;
+    width: 225px;
+    border: darkslategray;
+    border-style: solid;
+}
+
+.myp1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+    color: darkslategray;
+}
+
+.myp2 {
+    color: black;
+    font-family: 'Acme', sans-serif;
+    font-size: 18px;
+}
+
 .mybg2 {
     background-color: rgb(245, 235, 217);
+}
+
+.myborder {
+    border-style: solid;
+    color:  darkslategrey;  
+    width: 100%;
 }
 
 h1 {
@@ -44,12 +62,6 @@ h1 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-}
-
-.myborder {
-    border-style: solid;
-    color:  darkslategrey;  
-    width: 100%;
 }
 
 .myicon {
